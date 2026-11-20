@@ -22,7 +22,7 @@ All the configuration is done in GUI.
 - Show loans, boolean (default true)
 - Show debts (fees), boolean (default true)
 - Show reservations, boolean (default true)
-- Update interval, minutes (default 60)
+- Update interval, minutes (default 360)
 
 The show/hide toggles can be changed later from the integration's **Configure**
 (options) dialog. Unticking one stops those sensors from being created.

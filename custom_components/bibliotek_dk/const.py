@@ -61,7 +61,7 @@ JSON_HEADERS = {
 # dawa.companydata.dk mirror serves the same kommuner/reverse lookup.
 MUNICIPALITY_LOOKUP_URL = "https://dawa.companydata.dk/kommuner/reverse?x=LON&y=LAT"
 
-UPDATE_INTERVAL = 60
+UPDATE_INTERVAL = 360
 URL_FALLBACK = "https://bibliotek.kk.dk"
 URL_LOGIN = "/login"
 URL_LOGIN_PAGE = "/login?current-path=/user/me/dashboard"
